@@ -1,6 +1,11 @@
-
+import Featuredcourses from "@/components/Featuredcourses";
+import Herosection from "@/components/Herosection";
 export default function Home() {
   return (
-    <h1>hello next</h1>
+    <main className="min-h-screen bg-black/[0.96] antialiased bg-grid-white/[0.02]">
+      <Herosection/>
+      <Featuredcourses/>
+    </main>
+    
   );
 }
