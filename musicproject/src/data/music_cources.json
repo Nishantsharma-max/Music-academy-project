@@ -1,0 +1,95 @@
+{
+     "courses": [
+       {
+         "id": 1,
+         "titleslug": "guitar-masterclass",
+         "description": "Learn to play the guitar like a pro with step-by-step lessons covering chords, strumming, and solos.",
+         "price": 59.99,
+         "instructor": "David Williams",
+         "isFeatured": true,
+         "image": "https://cdn.pixabay.com/photo/2016/11/29/12/39/recording-studio-1869560_640.jpg"
+       },
+       {
+         "id": 2,
+         "titleslug": "piano-for-beginners",
+         "description": "A comprehensive piano course for beginners to master the basics and play beautiful melodies.",
+         "price": 49.99,
+         "instructor": "Emily Carter",
+         "isFeatured": false,
+         "image": "https://example.com/images/piano.jpg"
+       },
+       {
+         "id": 3,
+         "titleslug": "vocal-training-essentials",
+         "description": "Develop your singing skills with vocal warm-ups, breathing techniques, and pitch control exercises.",
+         "price": 54.99,
+         "instructor": "Sophia Martinez",
+         "isFeatured": true,
+         "image": "https://cdn.pixabay.com/photo/2023/10/26/22/50/guitar-8343666_640.png"
+       },
+       {
+         "id": 4,
+         "titleslug": "drumming-techniques",
+         "description": "Master drumming fundamentals, rhythms, and beats with practical exercises.",
+         "price": 44.99,
+         "instructor": "James Anderson",
+         "isFeatured": false,
+         "image": "https://example.com/images/drums.jpg"
+       },
+       {
+         "id": 5,
+         "titleslug": "music-theory-basics",
+         "description": "Understand the foundation of music theory, including scales, chords, and notation Master drumming fundamentals.",
+         "price": 39.99,
+         "instructor": "Olivia Johnson",
+         "isFeatured": true,
+         "image": "https://cdn.pixabay.com/photo/2016/11/23/00/23/hands-1851426_640.jpg"
+       },
+       {
+          "id": 6,
+          "titleslug": "violin-techniques",
+          "description": "Learn essential violin techniques, from bowing to finger placements, for beautiful performances.",
+          "price": 64.99,
+          "instructor": "Nathaniel Green",
+          "isFeatured": false,
+          "image": "https://example.com/images/violin.jpg"
+        },
+        {
+          "id": 7,
+          "titleslug": "bass-guitar-fundamentals",
+          "description": "Master the basics of bass guitar, including grooves, scales, and slap techniques.",
+          "price": 52.99,
+          "instructor": "Lucas Brown",
+          "isFeatured": true,
+          "image": "https://cdn.pixabay.com/photo/2016/11/29/03/42/mic-1867121_640.jpg"
+        },
+        {
+          "id": 8,
+          "titleslug": "flute-mastery",
+          "description": "A complete guide to mastering the flute, including breath control and articulation.",
+          "price": 48.99,
+          "instructor": "Isabella White",
+          "isFeatured": false,
+          "image": "https://example.com/images/flute.jpg"
+        },
+        {
+          "id": 9,
+          "titleslug": "songwriting-workshop",
+          "description": "Learn the art of songwriting, from lyrics to melody composition and structure.",
+          "price": 57.99,
+          "instructor": "Ethan Moore",
+          "isFeatured": true,
+          "image": "https://example.com/images/songwriting.jpg"
+        },
+        {
+          "id": 10,
+          "titleslug": "electronic-music-production",
+          "description": "Create electronic music using DAWs, synths, and mixing techniques.",
+          "price": 69.99,
+          "instructor": "Daniel Harris",
+          "isFeatured": false,
+          "image": "https://cdn.pixabay.com/photo/2021/04/17/16/01/book-6186166_640.jpg"
+        }
+     ]
+   }
+   
