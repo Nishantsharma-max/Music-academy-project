@@ -7,7 +7,7 @@
          "price": 59.99,
          "instructor": "David Williams",
          "isFeatured": true,
-         "image": "https://cdn.pixabay.com/photo/2016/11/29/12/39/recording-studio-1869560_640.jpg"
+         "image": "/courses/1.webp"
        },
        {
          "id": 2,
@@ -16,7 +16,7 @@
          "price": 49.99,
          "instructor": "Emily Carter",
          "isFeatured": false,
-         "image": "https://example.com/images/piano.jpg"
+         "image": "/courses/2.jpeg"
        },
        {
          "id": 3,
@@ -25,7 +25,7 @@
          "price": 54.99,
          "instructor": "Sophia Martinez",
          "isFeatured": true,
-         "image": "https://cdn.pixabay.com/photo/2023/10/26/22/50/guitar-8343666_640.png"
+         "image": "/courses/3.webp"
        },
        {
          "id": 4,
@@ -34,7 +34,7 @@
          "price": 44.99,
          "instructor": "James Anderson",
          "isFeatured": false,
-         "image": "https://example.com/images/drums.jpg"
+         "image":"/courses/4.webp"
        },
        {
          "id": 5,
@@ -43,7 +43,7 @@
          "price": 39.99,
          "instructor": "Olivia Johnson",
          "isFeatured": true,
-         "image": "https://cdn.pixabay.com/photo/2016/11/23/00/23/hands-1851426_640.jpg"
+         "image": "/courses/5.webp"
        },
        {
           "id": 6,
@@ -52,7 +52,7 @@
           "price": 64.99,
           "instructor": "Nathaniel Green",
           "isFeatured": false,
-          "image": "https://example.com/images/violin.jpg"
+          "image": "/courses/6.webp"
         },
         {
           "id": 7,
@@ -61,7 +61,7 @@
           "price": 52.99,
           "instructor": "Lucas Brown",
           "isFeatured": true,
-          "image": "https://cdn.pixabay.com/photo/2016/11/29/03/42/mic-1867121_640.jpg"
+          "image": "/courses/7.jpeg"
         },
         {
           "id": 8,
@@ -70,7 +70,7 @@
           "price": 48.99,
           "instructor": "Isabella White",
           "isFeatured": false,
-          "image": "https://example.com/images/flute.jpg"
+          "image": "/courses/8.webp"
         },
         {
           "id": 9,
@@ -79,7 +79,7 @@
           "price": 57.99,
           "instructor": "Ethan Moore",
           "isFeatured": true,
-          "image": "https://example.com/images/songwriting.jpg"
+          "image": "/courses/9.webp"
         },
         {
           "id": 10,
@@ -88,7 +88,7 @@
           "price": 69.99,
           "instructor": "Daniel Harris",
           "isFeatured": false,
-          "image": "https://cdn.pixabay.com/photo/2021/04/17/16/01/book-6186166_640.jpg"
+          "image": "/courses/10.webp"
         }
      ]
    }
